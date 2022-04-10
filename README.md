@@ -1,4 +1,4 @@
-# dibalo2_demo_by_golang
+# diablo2_demo_by_golang
 暗黑2复刻版_demo 实时提供试玩demo
 
 注意：源码目前没有公开
