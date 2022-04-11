@@ -34,6 +34,15 @@
 
 ![game](https://user-images.githubusercontent.com/22612129/162599118-925b7b96-df56-4127-ac88-3c202e991fbc.png)
 
+※ 实现暗黑2的背包系统 ！！！！！！
+
+![bag](https://user-images.githubusercontent.com/22612129/162647966-e9192e22-1e40-41d9-834f-1f9cf0a0e80b.png)
+
+
+![bag2](https://user-images.githubusercontent.com/22612129/162647972-accf7d93-8f0d-4c85-8b84-ee85934e9b76.png)
+
+
+
 
 
 
