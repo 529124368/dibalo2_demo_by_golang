@@ -1,8 +1,10 @@
-# diablo2_demo
-#### 纯golang开发客户端 一人独立开发 无团队
-暗黑2复刻版_demo 实时提供试玩demo
+# golang_ebiten_game_demo
 
-注意：源码目前没有公开
+# Technical demonstration only, not for use with any commercial activities.
+
+#### 纯golang开发客户端 一人独立开发 无团队
+暗黑2复刻版_demo
+
 
 ## 下载游戏
 
@@ -36,10 +38,9 @@
 
 ※ 实现暗黑2的背包系统 ！！！！！！
 
-![bag](https://user-images.githubusercontent.com/22612129/162647966-e9192e22-1e40-41d9-834f-1f9cf0a0e80b.png)
+![QQ图片20220411231854](https://user-images.githubusercontent.com/22612129/162760370-c7dff779-eac0-4e86-8156-6b68c4ad6f76.png)
 
-
-![bag2](https://user-images.githubusercontent.com/22612129/162647972-accf7d93-8f0d-4c85-8b84-ee85934e9b76.png)
+![2](https://user-images.githubusercontent.com/22612129/162760378-f851d9d0-17eb-43ab-b9cc-4479948ede25.png)
 
 
 
