@@ -1,7 +1,5 @@
 # game_demo
 
-golang开发
-
 # Technical demonstration only, not for use with any commercial activities.
 
 #### 纯golang开发客户端 一人独立开发 无团队
