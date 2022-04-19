@@ -1,4 +1,4 @@
-# golang_ebiten_game_demo
+# game_demo
 
 # Technical demonstration only, not for use with any commercial activities.
 
