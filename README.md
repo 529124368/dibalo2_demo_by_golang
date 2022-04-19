@@ -32,16 +32,9 @@
 ※ 左键长按拖拽画面移动
 ※ 右键点击画面 攻击
 
-![game](https://user-images.githubusercontent.com/22612129/162599084-9602e08c-351f-4b1b-987f-efe62e883f2e.png)
+![1](https://user-images.githubusercontent.com/22612129/163896405-e20cd657-78f6-4f0c-800d-6307a78b5655.png)
 
-![game](https://user-images.githubusercontent.com/22612129/162599118-925b7b96-df56-4127-ac88-3c202e991fbc.png)
-
-※ 实现暗黑2的背包系统 ！！！！！！
-
-![QQ图片20220411231854](https://user-images.githubusercontent.com/22612129/162760370-c7dff779-eac0-4e86-8156-6b68c4ad6f76.png)
-
-![2](https://user-images.githubusercontent.com/22612129/162760378-f851d9d0-17eb-43ab-b9cc-4479948ede25.png)
-
+![2](https://user-images.githubusercontent.com/22612129/163896410-8104194c-33b3-43ba-a214-1219b448cb71.png)
 
 
 
