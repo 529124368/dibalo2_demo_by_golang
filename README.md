@@ -17,10 +17,10 @@
 
 ![login](https://user-images.githubusercontent.com/22612129/162598939-3f4475ae-5911-4add-9965-a46270ed2540.png)
 
-#### 选择角色画面     
-※ 鼠标左键点击右下角任意位置进入下一个画面
+#### 选择角色画面 
 
-![select](https://user-images.githubusercontent.com/22612129/162599002-021218d5-4d23-42a4-87f3-a6870df6597a.png)
+![1](https://user-images.githubusercontent.com/22612129/163962707-11c8b22a-fc68-4210-84e0-2bac2187afeb.png)
+
 
 #### 加载画面     
 ※ 无需任何操作
