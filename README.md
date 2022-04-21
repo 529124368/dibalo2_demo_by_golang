@@ -4,6 +4,9 @@
 
 #### 纯golang开发客户端 一人独立开发 无团队
 暗黑2复刻版_demo
+## 支持手机版，在开发中
+
+![dia](https://user-images.githubusercontent.com/22612129/164470870-e3ab0537-977a-470a-9506-3bc43bae3eda.jpg)
 
 
 ## 下载游戏
@@ -34,7 +37,8 @@
 
 ![1](https://user-images.githubusercontent.com/22612129/163896405-e20cd657-78f6-4f0c-800d-6307a78b5655.png)
 
-![2](https://user-images.githubusercontent.com/22612129/163896410-8104194c-33b3-43ba-a214-1219b448cb71.png)
+![QQ图片20220421223812](https://user-images.githubusercontent.com/22612129/164470915-da98308b-9a14-48c4-bd79-c0cd1bd1c1a9.png)
+
 
 
 
