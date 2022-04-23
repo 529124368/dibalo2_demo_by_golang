@@ -2,7 +2,9 @@
 
 # Technical demonstration only, not for use with any commercial activities.
 
-# 视频地址 https://www.bilibili.com/video/BV1W44y1g7Bg?share_source=copy_web
+# BiLiBiLi 地址 https://www.bilibili.com/video/BV1W44y1g7Bg?share_source=copy_web
+
+# YouTube  地址 https://www.youtube.com/watch?v=uDkkax77xb0
 
 #### 纯golang开发客户端 一人独立开发 无团队
 暗黑2复刻版_demo
