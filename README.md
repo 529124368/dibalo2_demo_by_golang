@@ -2,6 +2,8 @@
 
 # Technical demonstration only, not for use with any commercial activities.
 
+# web demo -> https://redhat54188.itch.io/diablo-demo-go
+
 # BiLiBiLi 地址 https://www.bilibili.com/video/BV1W44y1g7Bg?share_source=copy_web
 
 # YouTube  地址 https://www.youtube.com/watch?v=uDkkax77xb0
