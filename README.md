@@ -1,5 +1,3 @@
-# game_demo
-
 # Technical demonstration only, not for use with any commercial activities.
 
 # web demo -> https://redhat54188.itch.io/diablo-demo-go
@@ -9,12 +7,22 @@
 # YouTube  地址 https://www.youtube.com/watch?v=uDkkax77xb0
 
 #### 纯golang开发客户端 一人独立开发 无团队
-暗黑2复刻版_demo
+
 ## 支持手机版，在开发中
 
+安卓 Android 
 ![dia](https://user-images.githubusercontent.com/22612129/164470870-e3ab0537-977a-470a-9506-3bc43bae3eda.jpg)
 
+![2](https://user-images.githubusercontent.com/22612129/166141177-487231cc-a9f1-4ffe-97a5-b288ba0a6e7f.jpg)
 
+苹果 IOS
+
+![1](https://user-images.githubusercontent.com/22612129/166141190-355718ec-886d-43e4-80ed-b95aefe1098c.jpg)
+
+![3](https://user-images.githubusercontent.com/22612129/166141187-7c713496-1b7f-4e39-a016-af402cb47ab5.jpg)
+
+
+PC 端
 ## 下载游戏
 
 ## 双击进入游戏 （无需任何外置素材包）
